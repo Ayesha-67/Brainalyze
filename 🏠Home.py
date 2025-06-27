@@ -31,7 +31,7 @@ st.markdown("<h1>Welcome to Brainalyze!</h1>", unsafe_allow_html=True)
 
 
 # Display the image
-image_path = "./images/chemistry-cuate.png"
+image_path = "images/chemistry-cuate.png"
 image = Image.open(image_path)
 resized_image = image.resize((500, 500))
 st.image(resized_image)
@@ -108,7 +108,7 @@ Meet the dedicated team behind Brainalyze: Ayesha Siddiqa, Bhavani V, Chandana R
 )
 
 # Display the image
-image_path = "./images/Team work-amico.png"
+image_path = "images/Team work-amico.png" 
 image = Image.open(image_path)
 
 st.image(image)
