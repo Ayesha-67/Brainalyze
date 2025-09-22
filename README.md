@@ -1,6 +1,6 @@
 # 🧠 Brainlayze – Brain MRI Analysis using FA
 
-Brainlayze is a **final year project** focused on analyzing Brain MRI scans using **Fractional Anisotropy (FA)** and image processing techniques to detect abnormalities in white matter regions.  
+The Project focuses on analyzing Brain MRI scans using **Fractional Anisotropy (FA)** and image processing techniques to detect abnormalities in white matter regions.  
 The system aims to assist in identifying **early signs of neurological disorders** through quantitative FA-based analysis and visualization.
 
 ---
